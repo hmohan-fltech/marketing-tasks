@@ -22,6 +22,7 @@ Each card moves left to right through three columns:
 | --- | --- |
 | **Todo** | Agreed work that nobody has started yet |
 | **In Progress** | Someone is actively working on it |
+| **Waiting for Approval** | Is in the approval/review process |
 | **Done** | Finished and delivered |
 
 Each card also carries four fields:
@@ -31,7 +32,7 @@ Each card also carries four fields:
 | **Priority** | Urgent, High, Medium, or Low |
 | **Category** | Events, Campaigns, Website, Print, or Comms & Content |
 | **Due date** | The hard deadline, if there is one |
-| **Looped in** | People outside the assignee who need to stay informed (Zane, sales reps, requesters) |
+| **Looped in** | People outside the assignee who need to stay informed (Jan, sales reps, collaborators) |
 
 Bigger projects have a checklist in the card's description so sub-tasks can be ticked off without creating a card for each one.
 
@@ -49,11 +50,11 @@ Bigger projects have a checklist in the card's description so sub-tasks can be t
 - **Move your own cards.** Update the status when the work changes, not at the end of the week.
 - **Keep details on the card.** Decisions, links, and approvals go in the card's description so the history stays with the task.
 - **Urgent means this week.** Use it sparingly so it keeps its meaning.
-- **Move it to Done when it ships.** Don't leave finished work sitting in In Progress.
+- **Move it to Done as soon as final deliverable is handed off.** Don't leave finished work sitting in In Progress.
 
 ## Current projects
 
-Snapshot from October 2, 2026. Check the board for live status.
+Snapshot from October 1, 2026. Check the board for live status.
 
 **Events**
 - Pack Expo final shipments (banners, folders, show kit)
